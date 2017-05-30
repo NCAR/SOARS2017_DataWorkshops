@@ -29,7 +29,7 @@ We cover the fundamentals of Python in the Juptyer Notebooks environment.  In th
 ## Notebook
 All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  You may, of course, view these files on Github, but you will lose some functionality by just viewing the materials in Github.
 
-[Click here]() to see the Notebook as it was intended to be viewed in the NBViewer!  
+[Click here](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/A/ws1/ws01a_overview.ipynb) to see the Notebook as it was intended to be viewed in the NBViewer!  
 
 # Workshop 2 : DATA WRANGLING IN PYTHON
 
