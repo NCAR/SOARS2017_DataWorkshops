@@ -6,18 +6,25 @@ The purpose of these workshops is to provide an introduction and exploration of 
 
 **FIRST YEAR PROTEGES**
 
+* it is best to start with the syllabus and content overview [HERE](./A)
+
 | Date | # | Description |
 |------|---|-------------|
-| 5/26 | [Workshop 0](A/ws0) | Basic setup and environment configuration. |
-| 6/2  | [Workshop 1]() | - |
+| 5/26 | [Workshop 0](./A/ws0) | Basic setup and environment configuration; Jupyter Notebooks for inquiry and science. |
+| 6/2  | [Workshop 1](./A/ws1) | - |
+
+<!--
 | 6/9  | [Workshop 2]() | - |
 | 6/23 | [Workshop 3]() | - |
-
+-->
 
 **RETURNING PROTEGES**
 
 | Date | # | Description |
 |------|---|-------------|
-| 6/2  | [Workshop 1]() | - |
+| 6/2  | Workshop 1 | - |
+
+<!--
 | 6/9  | [Workshop 2]() | - |
 | 6/23 | [Workshop 3]() | - |
+-->
