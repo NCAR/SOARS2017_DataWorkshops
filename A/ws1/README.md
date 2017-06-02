@@ -6,7 +6,7 @@
 | Workshop Segment | Purpose |
 |:----------------:|:--------|
 | [Overview](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/blob/master/A/ws1/ws01a_overview.ipynb) |  _Start Here_ to get the layout and focus of the workshop. |
-| [A quick introduction to Python](whttp://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/blob/master/A/ws1/s01b_intro.ipynb) | Not thorough or complete, but enough to get you on your way if you are familiar with a single language already.  Resources at the end if you don't. |
+| [A quick introduction to Python](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/blob/master/A/ws1/s01b_intro.ipynb) | Not thorough or complete, but enough to get you on your way if you are familiar with a single language already.  Resources at the end if you don't. |
 | [Python string basics](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/blob/master/A/ws1/ws01c_strings.ipynb) | A brief introduction to basic string manipulation in Python. |
 | [A quick tour of working with files](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/blob/master/A/ws1/ws01d_files.ipynb) | Learning how to open and iterate over files, if you need to get down to it on your own for data shaping, munging, cleaning or other pre-processing tasks. |
 | [Jupyter: A flyby introduction](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/blob/master/A/ws1/ws01e_jupyter.ipynb) | A flyby of the Jupyter ecosystem. |
