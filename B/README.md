@@ -20,7 +20,6 @@ We cover the fundamentals of scientific best practices through code, data, ideat
     * citing code and data
     * using citation management tools like Zotero, Mendeley and Endnote (+ easybib manager in gdocs)
     
-
 ## Resources
 * open source software and open science
     * http://openscience.org
@@ -30,6 +29,11 @@ We cover the fundamentals of scientific best practices through code, data, ideat
 * [Python](https://www.python.org/)
 * [XMind](http://www.xmind.net/)
 * [Zotero](https://www.zotero.org/), [Mendeley](https://www.mendeley.com/), [Endnote](http://endnote.com/)
+
+## Notebook
+All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  You may, of course, view these files on Github, but you will lose some functionality by just viewing the materials in Github.
+
+[Click here](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/B/ws1/ws01_research_best_practices.ipynb) to see the Notebook as it was intended to be viewed in the NBViewer!  
 
 
 # Workshop 2 : Jupyter as a research and writing tool
@@ -47,10 +51,11 @@ We cover the fundamentals of scientific best practices through code, data, ideat
 * understand how to use Jupyter to produce, refine and export data graphs
 * understand other language options in Jupyter (R, NCL?, IDL?)
 
+<!--
 ## Resources
 
 * TBD
-
+-->
 
 # Workshop 3 : Collaborating, sharing and disseminating your research
 
@@ -63,6 +68,7 @@ We cover the fundamentals of scientific best practices through code, data, ideat
 * understand the basics of blogging about science (review some exemplary sites)
 * fulfilling your role as an author through publishing 
 
+<!--
 ## Resources
 * TBD
-
+-->

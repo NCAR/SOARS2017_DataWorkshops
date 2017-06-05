@@ -22,9 +22,12 @@ The purpose of these workshops is to provide an introduction and exploration of 
 
 | Date | # | Description |
 |------|---|-------------|
-| 6/2  | Workshop 1 | - |
+| 6/2  | [Workshop 1](./B/ws1) | Introduction to scientific research and communication tools, technologies; getting started with your research ideas.  |
 
 <!--
 | 6/9  | [Workshop 2]() | - |
 | 6/23 | [Workshop 3]() | - |
 -->
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
