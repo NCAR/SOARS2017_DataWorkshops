@@ -49,7 +49,7 @@ All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  
 * develop best practices around notebooks
 * understand some of the productivity enhancing notebook extensions (NBExtensions)
 * understand how to use Jupyter to produce, refine and export data graphs
-* understand other language options in Jupyter (R, NCL?, IDL?)
+* understand exporting options and tools
 
 <!--
 ## Resources
@@ -57,16 +57,18 @@ All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  
 * TBD
 -->
 
-# Workshop 3 : Collaborating, sharing and disseminating your research
+## Notebook
+[Click here](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/B/ws2/ws02_jupyter_exploration.ipynb) to see the Notebook as it was intended to be viewed in the NBViewer!  
+
+
+# Workshop 3 : Exploring real data 
 
 ## Prerequisites
 * Jupyter Notebooks installed and running
 
 ## Objectives
-* understand how to share notebooks with NBViewer
-* realize the world of sharing science on social media (e.g. Twitter, blogs, etc.)
-* understand the basics of blogging about science (review some exemplary sites)
-* fulfilling your role as an author through publishing 
+* explore some real-world examples of data acquisition and conversion
+* identify key Python libraries that might be valuable in doing data acquisition and analysis
 
 <!--
 ## Resources
