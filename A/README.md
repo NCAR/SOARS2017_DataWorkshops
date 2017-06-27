@@ -26,10 +26,10 @@ We cover the fundamentals of Python in the Juptyer Notebooks environment.  In th
 * Jupyter Notebooks official [documentation](http://jupyter-notebook.readthedocs.io/en/latest/)
 * Python `csv` library [documentation](https://docs.python.org/3/library/csv.html)
 
-## Notebook
+## Workshop Notebook
 All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  You may, of course, view these files on Github, but you will lose some functionality by just viewing the materials in Github.
 
-[Click here](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/A/ws1/ws01a_overview.ipynb) to see the Notebook as it was intended to be viewed in the NBViewer!  
+* [GO HERE](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/A/ws1/ws01a_overview.ipynb) to see the Notebook as it was intended to be viewed in the NBViewer!  
 
 # Workshop 2 : DATA WRANGLING IN PYTHON
 
@@ -68,4 +68,5 @@ All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  
 ## Resources
 
 * [MetPy](https://unidata.github.io/MetPy/) - A Python Package for Meteorological Data
-* [Johnny Lin's Hand's On Intro to Python in Atmospheric Sciences](A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences) | Full Site
+* [Johnny Lin's Hand's On Intro to Python in Atmospheric Sciences](http://www.johnny-lin.com/pyintro/) | [e-Book Version ($5.00)](https://www.lulu.com/shop/view-cart.ep)
+
