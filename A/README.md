@@ -58,15 +58,20 @@ All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  
 # Workshop 3: HANDS ON REAL WORLD DATA ANALYSIS
 
 ## Prerequisites
+* installation of the Python library [netcdf4](https://unidata.github.io/netcdf4-python/)
 * installation of [MetPy](https://github.com/Unidata/MetPy)
+* installation of [Cartopy](http://scitools.org.uk/cartopy/)
+* a NetDCF file 
 
 ## Objectives
 
 * Get hands on experience with real world data
-* work through a hands on analysis of data using MetPy
+* work through a hands on analysis of NetCDF data using Cartopy and MetPy
 
 ## Resources
-
+* [netcdf4](https://unidata.github.io/netcdf4-python/) - A python package for reading netCDF files
+* [Cartopy](http://scitools.org.uk/cartopy/) - A python package for building maps and visualizations
 * [MetPy](https://unidata.github.io/MetPy/) - A Python Package for Meteorological Data
 * [Johnny Lin's Hand's On Intro to Python in Atmospheric Sciences](http://www.johnny-lin.com/pyintro/) | [e-Book Version ($5.00)](https://www.lulu.com/shop/view-cart.ep)
-
+* [A crash course in python for climate scientists](http://web.maths.unsw.edu.au/~oangelil/blog/blog4/Python_Crash_Course.pdf)
+* [pyBKB_v2 - Python scripts that help me be a successfull meteorologist](https://github.com/blaylockbk/pyBKB_v2)
