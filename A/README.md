@@ -26,10 +26,10 @@ We cover the fundamentals of Python in the Juptyer Notebooks environment.  In th
 * Jupyter Notebooks official [documentation](http://jupyter-notebook.readthedocs.io/en/latest/)
 * Python `csv` library [documentation](https://docs.python.org/3/library/csv.html)
 
-## Notebook
+## Workshop Notebook
 All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  You may, of course, view these files on Github, but you will lose some functionality by just viewing the materials in Github.
 
-[Click here](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/A/ws1/ws01a_overview.ipynb) to see the Notebook as it was intended to be viewed in the NBViewer!  
+* [GO HERE](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/A/ws1/ws01a_overview.ipynb) to see the Notebook as it was intended to be viewed in the NBViewer!  
 
 # Workshop 2 : DATA WRANGLING IN PYTHON
 
@@ -58,14 +58,20 @@ All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  
 # Workshop 3: HANDS ON REAL WORLD DATA ANALYSIS
 
 ## Prerequisites
+* installation of the Python library [netcdf4](https://unidata.github.io/netcdf4-python/)
 * installation of [MetPy](https://github.com/Unidata/MetPy)
+* installation of [Cartopy](http://scitools.org.uk/cartopy/)
+* a NetDCF file 
 
 ## Objectives
 
 * Get hands on experience with real world data
-* work through a hands on analysis of data using MetPy
+* work through a hands on analysis of NetCDF data using Cartopy and MetPy
 
 ## Resources
-
+* [netcdf4](https://unidata.github.io/netcdf4-python/) - A python package for reading netCDF files
+* [Cartopy](http://scitools.org.uk/cartopy/) - A python package for building maps and visualizations
 * [MetPy](https://unidata.github.io/MetPy/) - A Python Package for Meteorological Data
-* [Johnny Lin's Hand's On Intro to Python in Atmospheric Sciences](A Hands-On Introduction to Using Python in the Atmospheric and Oceanic Sciences) | Full Site
+* [Johnny Lin's Hand's On Intro to Python in Atmospheric Sciences](http://www.johnny-lin.com/pyintro/) | [e-Book Version ($5.00)](https://www.lulu.com/shop/view-cart.ep)
+* [A crash course in python for climate scientists](http://web.maths.unsw.edu.au/~oangelil/blog/blog4/Python_Crash_Course.pdf)
+* [pyBKB_v2 - Python scripts that help me be a successfull meteorologist](https://github.com/blaylockbk/pyBKB_v2)
