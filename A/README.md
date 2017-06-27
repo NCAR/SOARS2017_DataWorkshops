@@ -55,6 +55,13 @@ All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  
 * [Data Wrangling with Python: Tips and Tools to Make Your Life Easier](http://shop.oreilly.com/product/0636920032861.do) (Book)
 * [Gallery of Jupyter Notebooks](http://nb.bianp.net/sort/views/) from basic to advanced
 
+
+## Workshop Notebook
+All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  You may, of course, view these files on Github, but you will lose some functionality by just viewing the materials in Github.
+
+* [see the Notebook as it was intended](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/A/ws2/ws02_pandas_intro.ipynb)  to be viewed in NBViewer
+
+
 # Workshop 3: HANDS ON REAL WORLD DATA ANALYSIS
 
 ## Prerequisites
