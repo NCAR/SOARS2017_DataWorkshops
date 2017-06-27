@@ -6,18 +6,19 @@ The purpose of these workshops is to provide an introduction and exploration of 
 
 **FIRST YEAR PROTEGES**
 
-* it is best to start with the syllabus and content overview [HERE](./A)
+* [start with the syllabus](./A) and content overview 
 
 | Date | # | Description |
 |------|---|-------------|
 | 5/26 | [Workshop 0](./A/ws0) | Basic setup and environment configuration; Jupyter Notebooks for inquiry and science. |
 | 6/2  | [Workshop 1](./A/ws1) | Introduction to Python, Jupyter Notebooks and and Github for scientific inquiry and data analysis. |
 | 6/9  | [Workshop 2](./A/ws2) | Introduction to Pandas. |
-<!--
-| 6/23 | [Workshop 3]() | - |
--->
+| 6/23 | [Workshop 3](./A/ws3) | Exploration of netCDF, Cartopy and Metpy. |
+
 
 **RETURNING PROTEGES**
+
+* [syllabus and content overview](./B) 
 
 | Date | # | Description |
 |------|---|-------------|
@@ -25,7 +26,7 @@ The purpose of these workshops is to provide an introduction and exploration of 
 | 6/9  | [Workshop 2](./B/ws2) | Exploring Jupyter Notebooks for scientific narratives. |
 
 <!--
- 6/23 | [Workshop 3]() | - |
+ 6/16 | [Workshop 3]() | - |
 -->
 
 ---
