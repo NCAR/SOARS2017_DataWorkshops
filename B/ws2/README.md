@@ -7,4 +7,3 @@
 |:----------------:|:--------|
 | [Exploring Jupyter Notebooks](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/blob/master/B/ws2/ws02_jupyter_exploration.ipynb) |Exploring Jupyter from developing narratives, to using the tools available within the platform for collaboration, publication and other functions! |
 
-**NOTE**: These workshops are **best viewed with NBViewer** and that is where the links above will take you!
