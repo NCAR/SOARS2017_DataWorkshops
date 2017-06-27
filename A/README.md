@@ -82,3 +82,6 @@ All content in these notebooks are best viewed in the NBViewer at Juptyer.org.  
 * [Johnny Lin's Hand's On Intro to Python in Atmospheric Sciences](http://www.johnny-lin.com/pyintro/) | [e-Book Version ($5.00)](https://www.lulu.com/shop/view-cart.ep)
 * [A crash course in python for climate scientists](http://web.maths.unsw.edu.au/~oangelil/blog/blog4/Python_Crash_Course.pdf)
 * [pyBKB_v2 - Python scripts that help me be a successfull meteorologist](https://github.com/blaylockbk/pyBKB_v2)
+
+## Workshop Notebook
+* [view the Notebook](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/tree/master/A/ws3/ws03_data_exploration.ipynb)  for this workshop
