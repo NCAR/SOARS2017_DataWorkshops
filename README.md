@@ -12,9 +12,8 @@ The purpose of these workshops is to provide an introduction and exploration of 
 |------|---|-------------|
 | 5/26 | [Workshop 0](./A/ws0) | Basic setup and environment configuration; Jupyter Notebooks for inquiry and science. |
 | 6/2  | [Workshop 1](./A/ws1) | Introduction to Python, Jupyter Notebooks and and Github for scientific inquiry and data analysis. |
-
-<!--
-| 6/9  | [Workshop 2]() | - |
+| 6/9  | [Workshop 2](./A/ws2) | Introduction to Pandas. |
+<--
 | 6/23 | [Workshop 3]() | - |
 -->
 
@@ -24,7 +23,7 @@ The purpose of these workshops is to provide an introduction and exploration of 
 |------|---|-------------|
 | 6/2  | [Workshop 1](./B/ws1) | Introduction to scientific research and communication tools, technologies; getting started with your research ideas.  |
 
-<!--
+<--
 | 6/9  | [Workshop 2]() | - |
 | 6/23 | [Workshop 3]() | - |
 -->
