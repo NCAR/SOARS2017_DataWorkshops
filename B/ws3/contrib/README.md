@@ -1,4 +1,4 @@
-# This is an Overlap algorithrm for finding overlap between start and end times. 
+# This is an overlap algorithm for finding overlap between start and end times. 
 
 ## Problem
 We needed to find whether or not a satellite passes through a region of the orbit in the same local time over a seven month mission. 
