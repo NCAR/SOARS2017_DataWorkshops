@@ -1,4 +1,8 @@
 
+
+The workshop summary is best viewed as a Jupyter Notebook [START HERE](http://nbviewer.jupyter.org/github/NCAR/SOARS2017_DataWorkshops/blob/master/A/START_HERE.ipynb) for the best display of the materials.
+
+---
 # Workshop 1 : PYTHON FUNDAMENTALS
 
 We cover the fundamentals of Python in the Juptyer Notebooks environment.  In this workshop we explore Python 3.6.1 and the basic concepts of the language including variables, loops, data types and functions.  We will do hands on explorations within Jupyter Notebooks so that the concepts are more easily understood.
